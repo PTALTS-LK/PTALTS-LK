@@ -42,9 +42,11 @@ But not proficient in any programming language
       - [Minecraft](https://minecraft.net)
       - [Terraria](https://terraria.org)
       - RhythmDoctor
+      - A Dance Of Ice And Fire
       - Cytus2
+      - Garry's Mod
   
 </details>
 
 ![PCX-LK's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCX-LK&show_icons=true&theme=algolia)
-![ssssss](../output/github-contribution-grid-snake.svg)
+![ssssssnake](../output/github-contribution-grid-snake.svg)
