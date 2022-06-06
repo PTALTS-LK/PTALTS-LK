@@ -1,1 +1,1 @@
-# POWERED by [GIMP](gimp.org)
+# POWERED by [GIMP](https://gimp.org)
