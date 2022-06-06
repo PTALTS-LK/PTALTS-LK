@@ -49,4 +49,5 @@ But not proficient in any programming language
 </details>
 
 ![PCX-LK's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCX-LK&show_icons=true&theme=algolia)
-![ssssssnake](../output/github-contribution-grid-snake.svg)
+![ssssssnake](../output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![ssssssnake-dark](../output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
