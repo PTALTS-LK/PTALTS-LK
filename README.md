@@ -7,8 +7,8 @@
 </summary>
   <details><summary>Notice</summary>
     
-  #### 这个图标可以在非商用的前提下修改或使用（[这里](https://github.com/PCX-LK/PCX-LK/tree/main/HeadIcons)提供.xcf源文件）
-  #### This icon can be modified or used under the premise of non-commercial use (the .xcf source file is provided [here](https://github.com/PCX-LK/PCX-LK/tree/main/HeadIcons))
+  #### 可以基于本图标借鉴或学习，未经授权不可将原图标用于其他用途（[这里](https://github.com/PCX-LK/PCX-LK/tree/main/HeadIcons)提供.xcf源文件）
+  #### You can learn from or learn from this icon, and the original icon cannot be used for other purposes without authorization (the .xcf source file is provided [here](https://github.com/PCX-LK/PCX-LK/tree/main/HeadIcons))
     
   </details>
 
