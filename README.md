@@ -12,7 +12,7 @@
     
   </details>
 
-![head image](/HeadIcons/V1.2/PCX-LK-v1.2-OVER.png)
+![head image](/HeadIcons/V1.3/PCX-LK-v1.3.png)
 
 </details>
 <details><summary>
