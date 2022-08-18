@@ -28,7 +28,7 @@
     
   </details>
 
-![head image](/HeadIcons/V1.3/PCX-LK-v1.3.png)
+![head image](/HeadIcons/V1.3/PCX-LK-v1.3-Fix1.png)
 
 </details>
 <details><summary>
