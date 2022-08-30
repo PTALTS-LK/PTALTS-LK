@@ -22,13 +22,13 @@
 
 </summary>
   <details><summary>Notice</summary>
-    
+
   #### 使用/修改这个图标请遵循CC-BY-NC-SA 3.0协议（[这里](https://github.com/PCX-LK/PCX-LK/tree/main/HeadIcons)提供.xcf源文件）
   #### To use/modify this icon, follow the CC-BY-NC-SA 3.0 protocol (.xcf source file available [here](https://github.com/PCX-LK/PCX-LK/tree/main/HeadIcons))
-    
+
   </details>
 
-![head image](/HeadIcons/V1.3/PCX-LK-v1.3-Fix1.png)
+![head image](/HeadIcons/V1.3/PCX-LK-v1.3-Fix2.png)
 
 #### © 2022 PCX-LK，All rights reserved.
 
@@ -46,7 +46,7 @@ A student
 Linux loyal users (really rarely use Windows)
 
 Like computer technology，microcontroller development (such as Arduino, ESP32)
-  
+
 But not proficient in any programming language
 - Games
    - OpenSource
@@ -60,7 +60,7 @@ But not proficient in any programming language
       - [Minecraft](https://minecraft.net)
       - [Steam games](https://steamcommunity.com/id/PCX-LK/)
       - Cytus2
-  
+
 </details>
 
 ![PCX-LK's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCX-LK&show_icons=true&theme=algolia)
