@@ -43,26 +43,16 @@
 
 A student
 
-Linux loyal users (really rarely use Windows)
+Linux user (Debian is BEST!!!)
 
 Like computer technology，microcontroller development (such as Arduino, ESP32)
 
 But not proficient in any programming language
-- Games
-   - OpenSource
-      - [Mindsutry](https://github.com/Anuken/Mindustry)
-      - [Minetest](https://github.com/Minetest/Minetest)
-      - [OSU!Lazer](https://github.com/ppy/osu)
-   - Free non-commercial games
-      - Phigros
-      - Malody
-   - Business game (paid)
-      - [Minecraft](https://minecraft.net)
-      - [Steam games](https://steamcommunity.com/id/PCX-LK/)
-      - Cytus2
+
+Very like playing rhythm games(even homemade controllers) and sandbox games
 
 </details>
 
 ![PCX-LK's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCX-LK&show_icons=true&theme=algolia)
-![ssssssnake](/../../../../PCX-LK/Snake-gif/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![ssssssnake-dark](/../../../../PCX-LK/Snake-gif/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![ssssssnake](/../../../../PCX-LK/Profile-snake-gif/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![ssssssnake-dark](/../../../../PCX-LK/Profile-snake-gif/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
