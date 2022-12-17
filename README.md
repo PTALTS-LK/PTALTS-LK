@@ -28,7 +28,7 @@
 
   </details>
 
-![head image](/HeadIcons/V1.3/PCX-LK-v1.3-Fix2.png)
+![head image](/HeadIcons/V1.4/PCX-LK-v1.4.png)
 
 #### © 2022 PCX-LK，All rights reserved.
 
