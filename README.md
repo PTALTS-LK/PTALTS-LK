@@ -2,14 +2,16 @@
 ###### Or you can call me "LK" for short
 ###### Formerly called "CPXMC"
 
-![views](https://komarev.com/ghpvc/?username=PCX-LK&style=for-the-badge)
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,git,github,md,py,vim" />
   </a>
 </p>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://komarev.com/ghpvc/?username=PCX-LK&style=for-the-badge" />
+  </a>
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
