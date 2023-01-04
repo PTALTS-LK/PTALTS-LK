@@ -2,6 +2,8 @@
 ###### Or you can call me "LK" for short
 ###### Formerly called "CPXMC"
 
+![views](https://komarev.com/ghpvc/?username=PCX-LK&style=for-the-badge)
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,git,github,md,py,vim" />
