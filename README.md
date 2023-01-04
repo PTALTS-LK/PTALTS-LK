@@ -1,4 +1,5 @@
 # PCX-LK
+###### Or you can call me "LK" for short
 ###### Formerly called "CPXMC"
 
 <p align="center">
@@ -54,5 +55,5 @@ Very like playing rhythm games(even homemade controllers) and sandbox games
 </details>
 
 ![PCX-LK's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCX-LK&show_icons=true&theme=algolia)
-![ssssssnake](/../../../../PCX-LK/Profile-snake-gif/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![ssssssnake-dark](/../../../../PCX-LK/Profile-snake-gif/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Profile-snake](/../../../../PCX-LK/Profile-snake-gif/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Profile-snake-dark](/../../../../PCX-LK/Profile-snake-gif/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
