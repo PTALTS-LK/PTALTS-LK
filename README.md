@@ -44,8 +44,6 @@
 
 </summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PCX-LK&theme=algolia)
-
 A student
 
 Linux user (Debian is BEST!!!)
@@ -56,6 +54,8 @@ But not proficient in any programming language
 
 Very like playing rhythm games(even homemade controllers) and sandbox games
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PCX-LK&theme=algolia)
+  
 </details>
 
 ![PCX-LK's GitHub stats](https://github-readme-stats.vercel.app/api?username=PCX-LK&show_icons=true&theme=algolia)
