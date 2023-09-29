@@ -59,8 +59,18 @@ Very like playing rhythm games(even homemade controllers) and sandbox games
 </details>
 
 ![PTALTS-LK's GitHub stats](https://github-readme-stats.vercel.app/api?username=PTALTS-LK&show_icons=true&theme=algolia)
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/PTALTS-LK/Profile-snake-gif/raw/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/PTALTS-LK/Profile-snake-gif/raw/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/PTALTS-LK/Profile-snake-gif/raw/output/github-contribution-grid-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com//PTALTS-LK/Profile-snake-gif/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com//PTALTS-LK/Profile-snake-gif/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com//PTALTS-LK/Profile-snake-gif/output/github-contribution-grid-snake.svg"
+  />
 </picture>
