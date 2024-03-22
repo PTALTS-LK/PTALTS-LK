@@ -48,7 +48,7 @@
 
 A student
 
-Linux user (Debian is BEST!!!)
+Linux user (ARCH is BEST!!!)(Debian/sid made me broken :(
 
 Like computer technology，microcontroller development (such as Arduino, ESP32)
 
