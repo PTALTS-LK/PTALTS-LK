@@ -37,7 +37,7 @@
 
 ![head image](/HeadIcons/2025-6-11_Schematized_LK/icon_named_1024px.png)
 
-#### © 2023 PTALTS-LK，All rights reserved.
+#### © 2025 PTALTS-LK，All rights reserved.
 
 </details>
 <details><summary>
