@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,github,md,py,cpp,godot" />
+    <img src="https://skillicons.dev/icons?i=linux,git,github,vim,vscodium,vscode,md,py,cpp,qt,godot" />
   </a>
 </p>
 <p align="center">
@@ -13,12 +13,10 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/ArchLinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" />
 </p>
 <p align="center">
   Just for fun ( not real :)
@@ -46,21 +44,19 @@
 
 </summary>
 
-A student
-
-Linux user (ARCH is BEST!!!)(Debian/sid made me broken :(
+Linux daily user (I use Arch btw lol)(Debian/sid made me broken :( (too unstable to daily use))
 
 Like computer technology，microcontroller development (such as Arduino, ESP32)
 
-But not proficient in any programming language
+But not proficient in any programming language.now trying mainly coding witch C++ on Microcontroller and Desktop apps.
 
 Very like playing rhythm games(even homemade controllers) and sandbox games
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PTALTS-LK&theme=algolia)
   
 </details>
 
-![PTALTS-LK's GitHub stats](https://github-readme-stats.vercel.app/api?username=PTALTS-LK&show_icons=true&theme=algolia)
+![](https://raw.githubusercontent.com/PTALTS-LK/gh-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/PTALTS-LK/gh-stats/master/generated/overview.svg#gh-light-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PTALTS-LK&theme=material&mode=weekly&card_width=600)](https://git.io/streak-stats)
 
 <picture>
   <source
