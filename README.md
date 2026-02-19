@@ -1,4 +1,4 @@
-# PTALTS-LK
+# PTALTS-LK ![LK Badge](https://custom-icon-badges.demolab.com/badge/LK-17a4b0?style=for-the-badge&logo=LK-raw&logoSize=500&label=PTALTS&labelColor=0d5e64&link=https%3a%2f%2fgithub.com%2fPTALTS-LK)
 ###### Or you can call me "LK" for short
 ###### Formerly called "CPXMC" and "PCX-LK"
 
