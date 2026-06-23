@@ -54,22 +54,28 @@ But not proficient in any programming language.now trying mainly coding witch C+
 Very like playing rhythm games(even homemade controllers) and sandbox games
   
 </details>
-
-![](https://raw.githubusercontent.com/PTALTS-LK/gh-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/PTALTS-LK/gh-stats/master/generated/overview.svg#gh-light-mode-only)
-[![GitHub Streak](https://streak-stats.demolab.com?user=PTALTS-LK&theme=material&mode=weekly&card_width=600)](https://git.io/streak-stats)
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com//PTALTS-LK/Profile-snake-gif/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com//PTALTS-LK/Profile-snake-gif/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com//PTALTS-LK/Profile-snake-gif/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PTALTS-LK/gh-stats/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/PTALTS-LK/gh-stats/master/generated/overview.svg#gh-light-mode-only" />
+</p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=PTALTS-LK&theme=material&mode=weekly&card_width=600" alt="GitHub Streak" />
+  </a>
+</p>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com//PTALTS-LK/Profile-snake-gif/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com//PTALTS-LK/Profile-snake-gif/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com//PTALTS-LK/Profile-snake-gif/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
