@@ -20,7 +20,7 @@
   </a>
 </p>
 <p align="center">
-  Just for fun ( not real :)
+  Just for fun ( not completely real :)
 </p>
 <details><summary>
 
