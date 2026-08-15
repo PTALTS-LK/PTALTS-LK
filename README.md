@@ -20,7 +20,7 @@
   </a>
 </p>
 <p align="center">
-  Just for fun ( not completely real :)
+  <i>⚠️These badges mean I've installed them, used them for a project, or read half a tutorial. Use with caution.⚠️</i>
 </p>
 <details><summary>
 
