@@ -29,12 +29,12 @@
 </summary>
   <details><summary>Notice</summary>
 
-  #### 使用/修改这个图标请遵循CC-BY-NC-SA 4.0协议（[这里](https://github.com/PTALTS-LK/PTALTS-LK/tree/main/HeadIcons)提供.xcf源文件）
-  #### To use/modify this icon, follow the CC-BY-NC-SA 4.0 license (.xcf source file available [here](https://github.com/PTALTS-LK/PTALTS-LK/tree/main/HeadIcons))
+  #### 使用/修改这个图标请遵循CC-BY-NC-SA 4.0协议（[这里](https://github.com/PTALTS-LK/PTALTS-LK/tree/main/HeadIcons)提供.xcf等源文件）
+  #### To use/modify this icon, follow the CC-BY-NC-SA 4.0 license (.xcf and etc. source files available [here](https://github.com/PTALTS-LK/PTALTS-LK/tree/main/HeadIcons))
 
   </details>
 
-![head image](/HeadIcons/2025-6-11_Schematized_LK/icon_named_1024px.png)
+![head image](/HeadIcons/2026-9-27_Blended_LK/LK.png)
 
 #### © 2025 PTALTS-LK，All rights reserved.
 
