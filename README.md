@@ -36,7 +36,7 @@
 
 ![head image](/HeadIcons/2026-9-27_Blended_LK/LK.png)
 
-#### © 2025 PTALTS-LK，All rights reserved.
+#### © 2026 PTALTS-LK，All rights reserved.
 
 </details>
 <details><summary>
