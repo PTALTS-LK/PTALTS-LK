@@ -55,8 +55,8 @@ Very like playing rhythm games(even homemade controllers) and sandbox games
   
 </details>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PTALTS-LK/gh-stats/master/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/PTALTS-LK/gh-stats/master/generated/overview.svg#gh-light-mode-only" />
+  <img src="https://github.com/PTALTS-LK/gh-stats/blob/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/PTALTS-LK/gh-stats/blob/generated/overview.svg#gh-light-mode-only" />
 </p>
 <p align="center">
   <a href="https://git.io/streak-stats">
